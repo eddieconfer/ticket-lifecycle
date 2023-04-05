@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="blob:https://imgur.com/1be829ae-3f8e-4c8e-a526-d96d0702ed6a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2SYl0xJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I began by creating multiple tickets to help practice assigning SLA status, deepartment, and agents to each ticket.
